@@ -20,4 +20,4 @@ and then use the following resource link in your browser.
 ```http://localhost:8080/jaxrs-returning-xml/api/customers```
 
 Output:
-!output(https://github.com/vadlimolebila/jax-rs/image/master/output2.png?raw=true)
+!output(https://github.com/vadlimolebila/jax-rs/master/image/output2.png?raw=true)
